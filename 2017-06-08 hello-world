@@ -240,7 +240,7 @@
 
     <style>
       body{
-        background-image: url(/img/bg_cat.jpg);
+        background-image: url(/img/bg_cat.png);
       }
     </style>
 
